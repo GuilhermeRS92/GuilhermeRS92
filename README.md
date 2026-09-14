@@ -23,16 +23,6 @@ Sou um Engenheiro de Software com cerca de 4 anos de experiência no desenvolvim
 
 <br>
 
-### 📊 GitHub Stats
-<div>
-  <a href="https://github.com/GuilhermeRS92">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRS92&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRS92&layout=compact&langs_count=6&theme=merko" />
-  </a>
-</div>
-
-<br>
-
 ### 🤝 Vamos nos conectar!
 <div>
   <a href="https://www.linkedin.com/in/guilhermeribeirosouza" target="_blank">
